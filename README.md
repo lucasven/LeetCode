@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/lucasven/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lucasven/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/lucasven/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/lucasven/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lucasven/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lucasven/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/lucasven/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/lucasven/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
