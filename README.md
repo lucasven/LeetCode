@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/lucasven/LeetCode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/lucasven/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/lucasven/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucasven/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lucasven/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/lucasven/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
