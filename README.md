@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucasven/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucasven/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/lucasven/LeetCode/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lucasven/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/lucasven/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/lucasven/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/lucasven/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Math
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucasven/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lucasven/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/lucasven/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/lucasven/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/lucasven/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Recursion
