@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/lucasven/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/lucasven/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/lucasven/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucasven/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/lucasven/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/lucasven/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Memoization
 |  |
 | ------- |
