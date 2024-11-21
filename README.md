@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/lucasven/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/lucasven/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/lucasven/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lucasven/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Dynamic Programming
 |  |
