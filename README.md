@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/lucasven/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lucasven/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/lucasven/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/lucasven/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/lucasven/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/lucasven/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
