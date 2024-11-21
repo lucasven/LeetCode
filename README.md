@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/lucasven/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/lucasven/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/lucasven/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lucasven/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/lucasven/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
