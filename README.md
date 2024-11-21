@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucasven/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/lucasven/LeetCode/tree/master/0179-largest-number) |
+| [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lucasven/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Dynamic Programming
 |  |
@@ -36,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lucasven/LeetCode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
