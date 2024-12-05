@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/lucasven/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/lucasven/LeetCode/tree/master/0739-daily-temperatures) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lucasven/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2232-adding-spaces-to-a-string](https://github.com/lucasven/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lucasven/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/lucasven/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lucasven/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/lucasven/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2232-adding-spaces-to-a-string](https://github.com/lucasven/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/lucasven/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/lucasven/LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/lucasven/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2232-adding-spaces-to-a-string](https://github.com/lucasven/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lucasven/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/lucasven/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
